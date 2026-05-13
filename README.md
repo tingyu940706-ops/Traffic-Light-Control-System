@@ -70,3 +70,19 @@ See:
 
 Department of Electrical Engineering  
 National Sun Yat-sen University
+
+---
+
+## Project Diagrams
+
+### Smart Intersection Concept
+
+![Smart Intersection](images/智慧路口設計示意圖.png)
+
+### FSM State Diagram
+
+![State Diagram](images/state_diagram.png)
+
+### Hardware Architecture
+
+![Architecture](images/紅綠燈電路架構.png)
